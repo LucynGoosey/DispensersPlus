@@ -1,0 +1,6 @@
+name: DispensersPlus
+version: '${project.version}'
+main: me.lucyn.dispensersplus.DispensersPlus
+api-version: 1.19
+authors: [ Lucyn ]
+description: Adds more functionality to dispensers
